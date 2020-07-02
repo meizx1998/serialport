@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Enumeration;
 
+//wy到此一游
 public class test {
     public static void main(String[] args) {
         //枚举类型，获取所有的通行端口，包括232（PORT_SERIAL）、485、并口等等
